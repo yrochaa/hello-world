@@ -1,6 +1,6 @@
 # hello-world
 My first repository
 
-Hi There !
+Hi there !
 
 This is my first changed text ! :D
